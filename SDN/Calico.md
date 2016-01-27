@@ -1,0 +1,1 @@
+networking-calico [1] is currently implemented as an ML2 mechanism driver, but I'm wondering if it might be better as its own core plugin, and I'm looking for input about the implications of that, or for experience with that kind of change; and also for experience and understanding of hybrid ML2 networking.
